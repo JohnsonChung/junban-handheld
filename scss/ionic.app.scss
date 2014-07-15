@@ -20,3 +20,20 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 
 // Include all of Ionic
 @import "www/lib/ionic/scss/ionic";
+
+
+// ====================================
+// Customize Start
+// ====================================
+
+// Bootstrap Theme
+$positive:                        #428bca;
+$calm:                            #5bc0de;
+$balanced:                        #5cb85c;
+$energized:                       #f0ad4e;
+$assertive:                       #d9534f;
+
+
+// ====================================
+// 						  Customize End
+// ====================================
